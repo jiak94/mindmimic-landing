@@ -54,17 +54,17 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#ff452f2b"
+topbar_color                              : "#452F2B"
 topbar_transparency                       : 1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/v1027-100-a.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#FEE7AD"
 
 link_color                                : "#1d63ea"
 
